@@ -37,6 +37,7 @@ Pygments==2.14.0
 pynose==1.4.2
 pyOpenSSL==23.0.0
 pyotp==2.8.0
+PySocks==1.7.1
 pytest==7.2.2
 pytest-forked==1.6.0
 pytest-html==2.0.1
